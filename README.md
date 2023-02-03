@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/euelljl4h8xb1e64?svg=true)](https://ci.appveyor.com/project/stunlook/ajavadz2-1)
